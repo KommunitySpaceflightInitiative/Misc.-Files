@@ -1,1 +1,4 @@
 We are the Kommunity Spaceflight Initiative and we're currently working on a CubeSat design for a mission in lunar orbit, for which we will possibly want to use your industrial grade BBB clone. The most likely deciding factor is the radiation limit of your product. We also have a tight deadline, so we will only be able to use your product if it can be delivered in less than 12 months.
+
+Configs:
+http://imgur.com/tJWT9DP
