@@ -1,3 +1,5 @@
+Send to MIT Machine Shop: cmshop@mit.edu
+--
 Dear Sir or Madam,
 
 We from the Kommunity Spaceflight Initiative are currently working on a cubesat design for a mission in lunar orbit, for which we will need a machine shop for fabricating parts and satellite assembly. We are still in the planning phase of the project, but we would need access in July and August 2015.
@@ -7,3 +9,4 @@ We would we be pleased to have an answer as soon as possible.
 Kind regards,
 
 The Kommunity Spaceflight Initiative Team
+--
